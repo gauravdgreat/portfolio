@@ -1,4 +1,4 @@
-/* Reset and Typography */
+
 * {
   margin: 0;
   padding: 0;
@@ -30,7 +30,6 @@ a:hover {
   color: #ff5733;
 }
 
-/* Layout */
 .app {
   display: grid;
   grid-template-columns: 1fr 3fr;
